@@ -1,3 +1,6 @@
-# Hola este es mi primer trabajo
+# Proyecto: Data Science Fundamentals
 
-Holaa
+Incluye los siguientes tópicos:
+* Fundamentos
+* Código Git
+* Código Python y R
